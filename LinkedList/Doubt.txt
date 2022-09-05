@@ -1,0 +1,2 @@
+1.Naive approach for reversing the linkedList.
+2.Second solution for intersection of linked list.
